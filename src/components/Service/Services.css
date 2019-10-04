@@ -1,0 +1,11 @@
+.grid-container{ 
+    display: flex;
+    justify-content: center;
+    
+}
+.grid-image{
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    font-size: 1.44444vw;  
+}

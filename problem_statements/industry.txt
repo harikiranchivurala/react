@@ -1,0 +1,19 @@
+marketTypes = [
+	'vertical Market': [
+	],
+	'horizontalMarket': [
+	],
+	'TestMarket':[
+	]
+]
+
+currentObj = marketTypes[0];
+
+setGrid(index) {
+	currentObj = marketTypes[index];
+}
+
+
+
+<<  < > >>
+- - -

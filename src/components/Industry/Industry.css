@@ -1,0 +1,42 @@
+.industry-container{
+    width: 48.61111vw;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.industry-container-icon{
+    font-size: 1.04167vw;
+    color: #000;
+    letter-spacing: 1.54px;
+    text-align: center;
+    width: 13.88889vw;
+    padding: .69444vw 0;
+    height: 2.77778vw;
+    border: 1px solid #979797;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    margin-top: 3.47222vw;
+    line-height: 1.5;
+}
+.industry-heading{
+    font-size: 1.73611vw;
+    color: #4a4a4a;
+    letter-spacing: 2.31px;
+    text-align: right;
+}
+.industry-button{
+    display: flex;
+    justify-content: flex-end;
+}
+.button{
+    outline: none;
+    cursor: pointer;
+    width: 1.73611vw;
+    height: .20833vw;
+    margin-top: 1.04167vw;
+    background-color: #000;
+    margin-left: 5px;
+}
